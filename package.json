@@ -1,5 +1,5 @@
 {
-  "name": "HashIndex",
+  "name": "hashindex",
   "version": "0.0.1",
   "description": "HashIndex data structure for fast search with hashtable ideology.",
   "main": "index.js",
