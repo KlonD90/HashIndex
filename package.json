@@ -1,7 +1,7 @@
 {
   "name": "hashindex",
-  "version": "0.0.1",
-  "description": "HashIndex data structure for fast search with hashtable ideology.",
+  "version": "0.0.2",
+  "description": "HashIndex data structure for fast search with hashtable ideology or something like that for search by substr with hash idea.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
